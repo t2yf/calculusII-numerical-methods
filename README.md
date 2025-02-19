@@ -1,4 +1,5 @@
 # 📚 | Cálculo II - Métodos Númericos
+![Faculdade](https://img.shields.io/badge/Faculdade-91e2d6?style=for-the-badge)
 ## Sobre o repositório
 Esse repositório contém os projetos realizados durante a disciplina de Cálculo II Honors para o 2º semestre do curso de Ciência da Computação na Universidade Federal do Paraná. O objetivo é ir além da teoria e observar na prática o funcionamento de alguns métodos numéricos utilizando python e bibliotecas como o numpy e o matplotlib.
 
